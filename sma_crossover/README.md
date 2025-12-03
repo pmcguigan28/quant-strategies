@@ -1,3 +1,7 @@
+My First Quant Project
+--
+This project is a beginner-level exploration of algorithmic trading. I implemented a simple SMA crossover strategy on SPY to learn basic backtesting, indicator construction, and performance evaluation in Python. 
+
 SMA Crossover Strategy
 --
 
